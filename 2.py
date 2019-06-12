@@ -1,0 +1,10 @@
+print(" Hello ")
+print(''' Good Morning
+This is Good
+Thing in Python''')
+print( 43 )
+print( 54.65 )
+print( 3.14j )
+print( True )
+print( False )
+print( None )

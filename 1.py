@@ -1,1 +1,15 @@
-print(" Hello Grapess Solutions ")
+print(" Hello Grapess Solutions 'Welcome' ")
+print(' Hello Grapess "Solutions" ' )
+print(" First \
+		Second \
+		Third")
+print(" Welcome \n \" Good \" \\ ")
+print(' Welcome \' Good \' ')
+print("\a")
+print(" Action\b \f Double Action ")
+print(" Hello \r Good")
+print(" Hello \t\t Good \v Best ")
+print("\101\104")
+print("\101\104")
+print("\x41\x49")
+print("\u0043\u0041")
